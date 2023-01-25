@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A passionate Competitive Programmer and Web developer from India</h3>
-<img src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">
+<img src="coding.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu0711&label=Profile%20views&color=0e75b6&style=flat" alt="sanu0711" /> </p>
 
