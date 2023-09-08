@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanu0711" alt="sanu0711" /></a> </p>
 
-- 🔭 I’m currently working on [Bank Management System](https://sanu0711.github.io/Bank-Management-System/index.html)
+- 🔭 [Bank Management System](https://sanu0711.github.io/Bank-Of-Bajarang-Dal/)
 
 - 🌱 I’m currently learning **100 Days of Code: The Complete Python Pro Bootcamp for 2023 and Web Development**
 
