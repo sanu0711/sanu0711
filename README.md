@@ -7,11 +7,14 @@
 
 
 
+
 <div align="center">
 <img src="coding.webp">  
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanu0711&theme=onedark" alt="sanu0711" /></a> </p>
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sanu0711&theme=darkhub&column=8&no-frame=true&no-bg=true&margin-w=10)
+
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/-C-blue?&logo=C)
@@ -55,9 +58,11 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=sqlite)
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?&logo=microsoft-sql-server)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanu0711&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanu0711&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanu0711&theme=radical" alt="sanu0711" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanu0711&theme=dark)
+
+
 
 
 <!---
